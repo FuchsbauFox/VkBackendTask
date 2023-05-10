@@ -1,0 +1,12 @@
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\bin\Debug\net5.0\Users.Domain.deps.json
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\bin\Debug\net5.0\Users.Domain.dll
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\bin\Debug\net5.0\Users.Domain.pdb
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.csproj.AssemblyReference.cache
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.AssemblyInfoInputs.cache
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.AssemblyInfo.cs
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.dll
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\Users.Domain.pdb
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\obj\Debug\net5.0\ref\Users.Domain.dll
+C:\Users\vovas\source\repos\Vk.Backend\Users.Domain\bin\Debug\net5.0\ref\Users.Domain.dll
